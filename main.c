@@ -62,7 +62,7 @@ int main()
             {
           /*      system("cls");
                 hardminx(); */
-            printf(" sorry bro \n game is under construction\n but we will update you on our website\n www.aast.edu\n");
+            printf(" sorry bro \n game is under construction\n but we will update you on our website\n \t\twww.aast.edu\n");
             }
             else if (ga_no == 5)
             {
